@@ -1,0 +1,18 @@
+1.La norma RS-232C corresponde a un codigo de linea:
+a. dicode
+b. Manchester
+c. NRZ polar True!
+d. RZ neutral
+
+
+2.Los códigos HDBn y CHDBn…
+a. persiguen la simetria y perfeccion en la señal transmitida.
+b. transmiten 1/2 de componente continua y evitan la perdida de sincronismo sin señal.
+c. no transmiten componente continua y sin senal de entrada la salida es 1,-1,1,-1,1,-1.
+d. no transmiten componente continua y evitan la perdida de sincronismo sin senal. True!
+
+3.La trama adjunta corresponde:
+a. a un codigo HDB3.
+b. a un codigo RX45 especial.
+c. a un codigo RZ-polar. True!
+d. a una densidad espectral de energia tipica.
